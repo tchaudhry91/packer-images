@@ -10,7 +10,7 @@
 			"project_id": "swarm-test-165212",
 			"source_image": "ubuntu-1604-xenial-v20170330",
 			"zone": "europe-west1-b",
-			"image_name": "swarm-node-packer-v2",
+			"image_name": "swarm-node-packer",
 			"preemptible": "true",
 			"ssh_username": "ubuntu"
 		}
